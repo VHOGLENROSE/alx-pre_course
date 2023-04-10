@@ -1,2 +1,2 @@
 “my second commit”
-".gitignore update"
+My readme is up to date
