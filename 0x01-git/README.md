@@ -1,2 +1,2 @@
 “my second commit”
-My readme is up to date
+My readme is up-to-date
